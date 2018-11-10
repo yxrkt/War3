@@ -179,8 +179,8 @@ Tip=Train Knigh|cffffcc00t|r
 
 //priest
 [hmpr]
-Hotkey=R
-Tip=Train P|cffffcc00r|riest
+Hotkey=E
+Tip=Train Pri|cffffcc00e|rst
 
 // Inner Fire
 [Ainf]
@@ -470,8 +470,8 @@ Tip=Build Arcane |cffffcc00V|rault
 
 //lumber mill
 [hlum]
-Hotkey=L
-Tip=Build |cffffcc00L|rumber Mill
+Hotkey=E
+Tip=Build Lumb|cffffcc00e|rr Mill
 
 //keep
 [hkee]	
