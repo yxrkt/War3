@@ -237,7 +237,7 @@ Tip=Train |cffffcc00R|rifleman
 
 //sorceress
 [hsor]
-Hotkey=S
+Hotkey=W
 Tip=Train |cffffcc00S|rorceress
 
 // Slow
@@ -259,8 +259,8 @@ Hotkey=V
 
 //spell breaker
 [hspt]
-Hotkey=A
-Tip=Train Spell Bre|cffffcc00a|rker
+Hotkey=R
+Tip=Train Spell Breake|cffffcc00r|r
 
 // Spell Steal
 [Asps]
