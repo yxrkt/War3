@@ -1,4 +1,4 @@
-﻿//////////////////////////////////////////////////////
+//////////////////////////////////////////////////////
 //This file includes all racial units, heroes, 
 //upgrades, buildings and abilities.  Please consult 
 //CustomKeyInfo.txt for information on how to go about
@@ -156,7 +156,7 @@ Tip=|cffffcc00C|rloud
 Hotkey=C
 
 //footman
-[hfoo]	
+[hfoo]
 Hotkey=F
 Tip=Train |cffffcc00F|rootman
 
@@ -238,7 +238,7 @@ Tip=Train |cffffcc00R|rifleman
 //sorceress
 [hsor]
 Hotkey=W
-Tip=Train |cffffcc00S|rorceress
+Tip=Train Sorceress (|cffffcc00W|r)
 
 // Slow
 [Aslo]
@@ -404,7 +404,7 @@ Hotkey=A
 Tip=Build |cffffcc00A|rltar of Kings
 
 //workshop
-[harm]	
+[harm]
 Hotkey=W
 Tip=Build |cffffcc00W|rorkshop
 
@@ -474,7 +474,7 @@ Hotkey=E
 Tip=Build Lumb|cffffcc00e|rr Mill
 
 //keep
-[hkee]	
+[hkee]
 Hotkey=U
 Tip=|cffffcc00U|rpgrade to Keep
 
@@ -2346,24 +2346,24 @@ Awakentip=Revive Bea|cffffcc00s|rtmaster
 
 // Summon Bear (Beastmaster)
 [ANsg]
-Tip=Summon |cffffcc00B|rear - [|cffffcc00Level 1|r],Summon |cffffcc00B|rear - [|cffffcc00Level 2|r],Summon |cffffcc00B|rear - [|cffffcc00Level 3|r]
-Hotkey=B
-Researchtip=Learn Summon |cffffcc00B|rear - [|cffffcc00Level %d|r]
-Researchhotkey=B
+Tip=Summon Bea|cffffcc00r|r - [|cffffcc00Level 1|r],Summon Bea|cffffcc00r|r - [|cffffcc00Level 2|r],Summon Bea|cffffcc00r|r - [|cffffcc00Level 3|r]
+Hotkey=R
+Researchtip=Learn Summon Bea|cffffcc00r|r - [|cffffcc00Level %d|r]
+Researchhotkey=R
 
 // Summon Quilbeast (Beastmaster)
 [ANsq]
-Tip=Summon |cffffcc00Q|ruilbeast - [|cffffcc00Level 1|r],Summon |cffffcc00Q|ruilbeast - [|cffffcc00Level 2|r],Summon |cffffcc00Q|ruilbeast - [|cffffcc00Level 3|r]
-Hotkey=Q
-Researchtip=Learn Summon |cffffcc00Q|ruilbeast - [|cffffcc00Level %d|r]
-Researchhotkey=Q
+Tip=Summon Quilbeast (|cffffcc00W|r) - [|cffffcc00Level 1|r],Summon Quilbeast (|cffffcc00W|r) - [|cffffcc00Level 2|r],Summon Quilbeast (|cffffcc00W|r) - [|cffffcc00Level 3|r]
+Hotkey=W
+Researchtip=Learn Summon Quilbeast (|cffffcc00W|r) - [|cffffcc00Level %d|r]
+Researchhotkey=W
 
 // Summon Hawk (Beastmaster)
 [ANsw]
-Tip=Summon Ha|cffffcc00w|rk - [|cffffcc00Level 1|r],Summon Ha|cffffcc00w|rk - [|cffffcc00Level 2|r],Summon Ha|cffffcc00w|rk - [|cffffcc00Level 3|r]
-Hotkey=W
-Researchtip=Learn Summon Ha|cffffcc00w|rk - [|cffffcc00Level %d|r]
-Researchhotkey=W
+Tip=Summon Hawk (|cffffcc00E|r) - [|cffffcc00Level 1|r],Summon Hawk (|cffffcc00E|r) - [|cffffcc00Level 2|r],Summon Hawk (|cffffcc00E|r) - [|cffffcc00Level 3|r]
+Hotkey=E
+Researchtip=Learn Summon Hawk (|cffffcc00E|r) - [|cffffcc00Level %d|r]
+Researchhotkey=E
 
 // Stampede (Beastmaster)
 [ANst]
